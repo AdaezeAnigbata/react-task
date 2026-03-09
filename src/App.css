@@ -1,6 +1,4 @@
-/* App.css */
-
-.app-container {
+/*App.css .app-container {
   background-color: #121212;
   height: 100vh;
   display: flex;
@@ -26,10 +24,10 @@
 
 .task-status {
   opacity: 0.8;
-}
+}*/
 
 /* Base style for the button */
-.task-button {
+/* /*.task-button {
   color: white;
   border: none;
   padding: 12px 24px;
@@ -38,17 +36,17 @@
   font-size: 16px;
   margin-top: 20px;
   transition: opacity 0.2s;
-}
+} */
 
 /*change the color based on status */
-.btn-finished {
+/* .btn-finished {
   background-color: #4caf50;
-}
+} */
 
-.btn-progress {
+/* .btn-progress {
   background-color: #007bff;
-}
+} */
 
-.task-button:hover {
+/* .task-button:hover {
   opacity: 0.8;
-}
+} */
